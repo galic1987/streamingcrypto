@@ -1,0 +1,8 @@
+source/CryptoMarketTradeUnboundedReader$1.class
+run/RunThePipeline.class
+utils/ExchangeConfiguration.class
+data/TradeLoad.class
+run/RunThePipeline$1.class
+source/CryptoMarketTradeUnboundedSource.class
+source/CryptoMarketTradeUnboundedReader.class
+utils/CloudBigtableCustomOptions.class
